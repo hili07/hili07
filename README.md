@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anulika Pearl
+- 👋 Hi, I’m Anulika Pearl Nwashili
 - 🚀 Driven by a passion for leveraging data-driven insights to create and advance medical solutions. I thrive on the intersection of Genomics, Biomedical data analysis & Transcriptomics.
 - 🧬 I’m currently working on projects intersecting ML/AI Techniques with scRNA seq Data.
 - 🌟 I'm excited to contribute my skills to make a meaningful impact in the field of life sciences & bioinformatics.
